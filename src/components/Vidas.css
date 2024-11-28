@@ -1,0 +1,13 @@
+.life-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    height: 3%;
+}
+
+.life-img {
+    width: 15%;
+    height: auto;
+    margin-right: 10px;
+}
